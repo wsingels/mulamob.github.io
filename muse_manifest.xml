@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulamob.com" resolutions="1x" timestamp="1497296080195">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulamob.com" resolutions="1x" timestamp="1497311651276">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="458490690" ref="index"/>
-    <file name="index.css" crc="84031872" ref="index"/>
+    <file name="master_a-master.css" crc="497766183" ref="index"/>
+    <file name="index.css" crc="4143226469" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,5 +12,11 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
-  <file name="index.html" crc="211296184" seo="true" mt="1497295761147" redirect="true"/>
+  <folder name="images">
+    <file name="u131-4.png" crc="3765119281" ref="index"/>
+    <file name="u98-8.png" crc="3837945583" ref="index"/>
+    <file name="u105-6.png" crc="195794341" ref="index"/>
+    <file name="u108-6.png" crc="4101786494" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4119194969" seo="true" mt="1497311554449" redirect="true"/>
 </manifest>
